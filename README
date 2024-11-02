@@ -1,2 +1,4 @@
-Indian English model for mobile Vosk applications
+A code that will take voice input and catch the word "lock" to lock your system (works on windows)
+Can be used for considerable issues like to provide accessiblity to individuals with dexterity issues or You can act smug in front of your friends by saying some cool shi- like "Jarvis, lock my system" as long as it includes the word lock pronounced correctly
+(for accessiblity more features can be added in conditionals from windll.users32)
 
